@@ -1,0 +1,30 @@
+/node_modules
+node_modules/
+*.doc
+_book/
+# 所有目录的_book
+/_book/
+# 根目录下的_book
+.DS_Store
+other/
+*.rar
+*.zip
+/code/
+# 根目录下的code
+*.pdf
+.vscode/
+pdf/
+/pdf/
+tex2pdf*
+pdftex
+pdftex/
+docx/
+/docx
+
+manifest/
+/manifest
+export/
+/export
+
+/*.docx
+*.epub
